@@ -1,4 +1,4 @@
-# Запуск процесса на удаленном ПК используя WMIC
+### Запуск процесса на удаленном ПК используя WMIC
 
 Удалить временный ключ **VMFTK** активации **Microsoft 365**:
 >WMIC /node:"COMPUTER_NAME" process call create "cmd.exe /c cscript \"C:\Program Files\Microsoft Office\Office16\ospp.vbs\" /unpkey:VMFTK"
