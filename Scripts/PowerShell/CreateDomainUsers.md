@@ -10,8 +10,8 @@ Name,Surname,GivenName,Password,Description,OfficePhone,EmailAddress,UserPrincip
 ```
 
 ***Важно:***
-последний столбец "OU" содержит полный путь до от пользователя до корневой OU, совпадает с distinguishedName, например:
-distinguishedName для пользователя из CSV файла будет такой
+последний столбец "OU" содержит полный путь до от пользователя до корневой OU, совпадает с **distinguishedName**.
+Например **distinguishedName** для пользователя из CSV файла, когда он будет создан, будет выглядеть так:
 
 >CN=Иванов Иван Иванович,OU=Группа наладки,OU=Цех по ремонту и монтажу,OU=ООО Рога и копыта,DC=company,DC=com
 
