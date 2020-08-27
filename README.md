@@ -7,7 +7,7 @@ Various technical support information
 
 [Scripts - PowerShell](Scripts/PowerShell)
 
-[Создание доменных пользователей по списку из CSV файла](Scripts/Shell/CreateDomainUsers.md)
+[Создание доменных пользователей по списку из CSV файла](Scripts/PowerShell/CreateDomainUsers.md)
 
 [Scripts - Shell](Scripts/Shell)
 
