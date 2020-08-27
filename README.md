@@ -9,4 +9,4 @@ Various technical support information
 [Scripts - Bash](Scripts/Bash)
 
 - [Создание доменных пользователей по списку из CSV файла](Scripts/PowerShell/CreateDomainUsers.md)
-- [WMIC: execute cmd on remote PC](Scripts/Shell/wmic_cmd.md)
+- [Запуск процесса на удаленном ПК используя WMIC](Scripts/Shell/wmic_cmd.md)
