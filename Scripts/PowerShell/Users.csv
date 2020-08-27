@@ -1,0 +1,2 @@
+﻿Name,Surname,GivenName,Password,Description,OfficePhone,EmailAddress,UserPrincipalName,SamAccountName,Department,Division,OU
+Иванов Иван Иванович,Иванов,Иван,UserPassword!#1,Мастер-технолог,555-1234,Ivan.Ivanov@company.com,IIvanov@company.com,IIvanov,Цех по ремонту и монтажу,Группа наладки,OU=Группа наладки|OU=Цех по ремонту и монтажу|OU=ООО Рога и копыта|DC=company|DC=com
